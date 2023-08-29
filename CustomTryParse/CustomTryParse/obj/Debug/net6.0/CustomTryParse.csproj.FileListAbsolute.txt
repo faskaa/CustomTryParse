@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\bin\Debug\net6.0\CustomTryParse.exe
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\bin\Debug\net6.0\CustomTryParse.deps.json
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\bin\Debug\net6.0\CustomTryParse.runtimeconfig.json
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\bin\Debug\net6.0\CustomTryParse.dll
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\bin\Debug\net6.0\CustomTryParse.pdb
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\obj\Debug\net6.0\CustomTryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\obj\Debug\net6.0\CustomTryParse.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\obj\Debug\net6.0\CustomTryParse.AssemblyInfo.cs
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\obj\Debug\net6.0\CustomTryParse.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\obj\Debug\net6.0\CustomTryParse.dll
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\obj\Debug\net6.0\refint\CustomTryParse.dll
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\obj\Debug\net6.0\CustomTryParse.pdb
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\obj\Debug\net6.0\CustomTryParse.genruntimeconfig.cache
+C:\Users\acer\Desktop\CustomTryParse\CustomTryParse\CustomTryParse\obj\Debug\net6.0\ref\CustomTryParse.dll
